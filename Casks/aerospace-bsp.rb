@@ -1,6 +1,6 @@
 cask "aerospace-bsp" do
-  version "0.0.1-bsp"
-  sha256 "74239715e927340248b55bd21ee20d38a51fef98c02514ea7f59e9a54f35217f"
+  version "0.0.2-bsp"
+  sha256 "ed88532f1eecddd0d81c7f4aebbe326f2b013a7a87c92642a833dcf337a56540"
   url "https://github.com/MatthiasBenaets/AeroSpace/releases/download/v#{version}/AeroSpace-v#{version}.zip"
   name "AeroSpace"
   desc "AeroSpace is an i3-like tiling window manager for macOS (BSP fork)"
